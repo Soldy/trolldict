@@ -261,15 +261,15 @@ const trollDictAttributesBasic = function(){
         'onwheel',
         'open',
         'optimum',
-        'pattern
+        'pattern',
         'placeholder',
-        'poster
-        'preload
-        'readonly
-        'rel
-        'required
-        'reversed
-        'rows
+        'poster',
+        'preload',
+        'readonly',
+        'rel',
+        'required',
+        'reversed',
+        'rows',
         'rowspan',
         'sandbox',
         'scope',
@@ -308,6 +308,5 @@ const trollDictAttributesBasic = function(){
         'r':'rel',
         's':'src',
         't':'action'
-
     };
 }
